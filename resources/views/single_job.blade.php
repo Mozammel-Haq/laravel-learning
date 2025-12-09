@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:title>
-    Contact Page
+    Job Details Page
     </x-slot:title>
-    <h1>This this the Contact Page</h1>
+    <h1>The Job id is {{ $id }}</h1>
 </x-layout>
